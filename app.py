@@ -27,7 +27,7 @@ anime_data = {
         "genre": "Action, Comedy, Slice of Life",
         "description": "Elite spy Twilight must disguise himself as a family man...",
         "audio" : ["sub","dub"],
-        "episodes": {1: "ofXigq9aIpo", 2: "ofXigq9aIpo", 3: "ofXigq9aIpo", 4: "ofXigq9aIpo"}
+        "episodes": {1: "ofXigq9aIpo", 2: "ofXigq9aIpo", 3: "ofXigq9aIpo", 4: "ofXigq9aIpo", 5:"rV9QmUSlPds"}
     },
     "tensura": {
         "title": "That Time I Got Reincarnated as a Slime",
