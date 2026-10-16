@@ -11,7 +11,7 @@ anime_data = {
         "image": "saitama1.jpg",
         "bg":"saitama.jpg",
         "season": "Season 1",
-        "genre": "Action, Comedy, Superhero",
+        "genre": "Action, Comedy, Superhero,Adeventure",
         "description": "Saitama is a hero who can defeat any opponent with a single punch...",
         "audio" : ["sub","dub"],
         "episodes": {
